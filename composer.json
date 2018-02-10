@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "atk4/ui": "dev-feature/various-fixes"
+    "atk4/ui": "dev-develop"
   },
   "require-dev": {
     "phpunit/phpunit": "4.0.*"
